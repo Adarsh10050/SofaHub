@@ -1,17 +1,11 @@
-## Jamstack ECommerce Next
+## SofaHub ECommerce Next
 
-Jamstack ECommerce Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js.
+SofaHub ECommerce Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js.
 
 Out of the box, the site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.
 
-![Home](example-images/1.png)
-
-### Live preview
-
-Click [here](https://www.jamstackecommerce.dev/) to see a live preview.
-
 <details>
-  <summary>Other Jamstack ECommerce pages</summary>
+  <summary>Other SofaHub ECommerce pages</summary>
 
 ### Category view
 ![Category view](example-images/2.png)
